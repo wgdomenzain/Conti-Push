@@ -38,5 +38,7 @@
 	</array>
 	<key>Pushwoosh_APPID</key>
 	<string>41E31-102D8</string>
+	<key>Pushwoosh_AUTO</key>
+	<false/>
 </dict>
 </plist>
